@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "PrimeiroPoo/1.0.0": {
+      "Encapsulamento/1.0.0": {
         "runtime": {
-          "PrimeiroPoo.dll": {}
+          "Encapsulamento.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PrimeiroPoo/1.0.0": {
+    "Encapsulamento/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
